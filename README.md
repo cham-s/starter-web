@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 with a new add
 
 ## Introduction
+This is the intro
 
 ## Purpose
 
