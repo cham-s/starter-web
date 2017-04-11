@@ -7,9 +7,12 @@ with a new add
 This is the intro
 
 ## Purpose
+Adding some text
 
 Sample website with plenty of files for demos
 
 ## Deployement
+
+This is how to deploy it
 
 ## How To Contribute
