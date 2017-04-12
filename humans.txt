@@ -6,6 +6,7 @@
 Jhon Doe
 
 # THANKS
+thanks to all lsutudents
 
     <name>
 
